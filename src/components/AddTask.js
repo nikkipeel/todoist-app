@@ -44,7 +44,7 @@ export const AddTask = ({
                     projectId,
                     task,
                     date: collatedDate || taskDate,
-                    userId: 'dfjojnce28duz48sd3'
+                    userId: ''
                 })
                 .then(() => {
                     setTask('');
